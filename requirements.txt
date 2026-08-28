@@ -1,0 +1,25 @@
+# TED EOM MRI Segmentation Pipeline (TOM500)
+# =============================================
+
+# Core Scientific Computing
+numpy>=1.24.0
+scipy>=1.10.0
+scikit-image>=0.20.0
+
+# Medical Image Processing
+nibabel>=5.1.0
+SimpleITK>=2.2.0
+
+# Deep Learning & nnU-Net
+torch>=2.0.0
+nnunetv2>=2.2.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Data Handling
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Utilities
+tqdm>=4.65.0

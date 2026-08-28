@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this software or methodology, please cite it as below."
+authors:
+  - name: "TED EOM Research Group"
+title: "Automated Deep Learning-Based Segmentation and Quantitative Morphological Analysis of Extraocular Muscles in MRI Images of Patients with Thyroid Eye Disease"
+date-released: 2026-08-28
+url: "https://github.com/BARANIKESHAVA/TED-EOM-MRI-Segmentation"

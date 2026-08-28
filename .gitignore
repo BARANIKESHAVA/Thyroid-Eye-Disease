@@ -1,0 +1,63 @@
+# Machine Learning / Deep Learning / Medical Datasets
+data/
+nnUNet/nnUNet_raw/
+nnUNet/nnUNet_preprocessed/
+nnUNet/nnUNet_results/
+results/segmentation/
+results/metrics/
+results/morphology/
+results/figures/
+results/run_summary.txt
+
+
+# Medical Image Formats & Binary Artifacts
+*.nii
+*.nii.gz
+*.pth
+*.pt
+*.ckpt
+
+# Python runtime artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment and Secret Files
+.env
+.env.*
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS System Files
+.DS_Store
+Thumbs.db
